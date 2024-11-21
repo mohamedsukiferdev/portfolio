@@ -88,7 +88,7 @@ const About = () => {
               )}
             </li>
             <li>
-              <span>Address</span> : Tenkasi, TamilNadu, India - 627415
+              <span>Address</span> :TamilNadu, India 
             </li>
             <li>
               <span>Languages</span> : Tamil, English

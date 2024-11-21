@@ -94,7 +94,7 @@ const Works = () => {
                   <div class="carousel-item active">
                     <img
                       class="d-block w-100"
-                      src="/assets/imgs/c1.png"
+                      src="assets/imgs/c1.png"
                       alt="First slide"
                     />
                     <div class="carousel-caption d-none d-md-block">
@@ -105,7 +105,7 @@ const Works = () => {
                   <div class="carousel-item">
                     <img
                       class="d-block w-100"
-                      src="/assets/imgs/c2.png"
+                      src="assets/imgs/c2.png"
                       alt="Second slide"
                     />
                     <div class="carousel-caption d-none d-md-block">
@@ -116,7 +116,7 @@ const Works = () => {
                   <div class="carousel-item">
                     <img
                       class="d-block w-100"
-                      src="/assets/imgs/c3.png"
+                      src="assets/imgs/c3.png"
                       alt="Third slide"
                     />
                     <div class="carousel-caption d-none d-md-block">
@@ -127,7 +127,7 @@ const Works = () => {
                   <div class="carousel-item">
                     <img
                       class="d-block w-100"
-                      src="/assets/imgs/c4.png"
+                      src="assets/imgs/c4.png"
                       alt="fourth slide"
                     />
                     <div class="carousel-caption d-none d-md-block">
@@ -138,7 +138,7 @@ const Works = () => {
                   <div class="carousel-item">
                     <img
                       class="d-block w-100"
-                      src="/assets/imgs/c5.png"
+                      src="assets/imgs/c5.png"
                       alt="fifth slide"
                     />
                     <div class="carousel-caption d-none d-md-block">
@@ -149,7 +149,7 @@ const Works = () => {
                   <div class="carousel-item">
                     <img
                       class="d-block w-100"
-                      src="/assets/imgs/c6.png"
+                      src="assets/imgs/c6.png"
                       alt="sixth slide"
                     />
                     <div class="carousel-caption d-none d-md-block">
@@ -160,7 +160,7 @@ const Works = () => {
                   <div class="carousel-item">
                     <img
                       class="d-block w-100"
-                      src="/assets/imgs/c7.png"
+                      src="assets/imgs/c7.png"
                       alt="sixth slide"
                     />
                     <div class="carousel-caption d-none d-md-block">
@@ -171,7 +171,7 @@ const Works = () => {
                   <div class="carousel-item">
                     <img
                       class="d-block w-100"
-                      src="/assets/imgs/c8.png"
+                      src="assets/imgs/c8.png"
                       alt="sixth slide"
                     />
                     <div class="carousel-caption d-none d-md-block">
@@ -182,7 +182,7 @@ const Works = () => {
                   <div class="carousel-item">
                     <img
                       class="d-block w-100"
-                      src="/assets/imgs/c9.png"
+                      src="assets/imgs/c9.png"
                       alt="sixth slide"
                     />
                     <div class="carousel-caption d-none d-md-block">
@@ -285,7 +285,7 @@ const Works = () => {
                   <div class="carousel-item active">
                     <img
                       class="d-block w-100"
-                      src="/assets/imgs/tic1.png"
+                      src="assets/imgs/tic1.png"
                       alt="First slide"
                     />
                     <div class="carousel-caption d-none d-md-block">
@@ -297,7 +297,7 @@ const Works = () => {
                   <div class="carousel-item">
                     <img
                       class="d-block w-100"
-                      src="/assets/imgs/tic2.png"
+                      src="assets/imgs/tic2.png"
                       alt="Second slide"
                     />
                     <div class="carousel-caption d-none d-md-block">
@@ -308,7 +308,7 @@ const Works = () => {
                   <div class="carousel-item">
                     <img
                       class="d-block w-100"
-                      src="/assets/imgs/tic3.png"
+                      src="assets/imgs/tic3.png"
                       alt="Third slide"
                     />
                     <div class="carousel-caption d-none d-md-block">
@@ -319,7 +319,7 @@ const Works = () => {
                   <div class="carousel-item">
                     <img
                       class="d-block w-100"
-                      src="/assets/imgs/tic4.png"
+                      src="assets/imgs/tic4.png"
                       alt="fourth slide"
                     />
                     <div class="carousel-caption d-none d-md-block">
@@ -330,7 +330,7 @@ const Works = () => {
                   <div class="carousel-item">
                     <img
                       class="d-block w-100"
-                      src="/assets/imgs/tic5.png"
+                      src="assets/imgs/tic5.png"
                       alt="fifth slide"
                     />
                     <div class="carousel-caption d-none d-md-block">
@@ -341,7 +341,7 @@ const Works = () => {
                   <div class="carousel-item">
                     <img
                       class="d-block w-100"
-                      src="/assets/imgs/tic7.png"
+                      src="assets/imgs/tic7.png"
                       alt="sixth slide"
                     />
                     <div class="carousel-caption d-none d-md-block">
@@ -426,7 +426,7 @@ const Works = () => {
                   <div class="carousel-item active">
                     <img
                       class="d-block w-100"
-                      src="/assets/imgs/login.png"
+                      src="assets/imgs/login.png"
                       alt="First slide"
                     />
                   </div>
@@ -434,7 +434,7 @@ const Works = () => {
                   <div class="carousel-item">
                     <img
                       class="d-block w-100"
-                      src="/assets/imgs/login1.png"
+                      src="assets/imgs/login1.png"
                       alt="Second slide"
                     />
                   </div>

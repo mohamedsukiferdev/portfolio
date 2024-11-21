@@ -88,7 +88,7 @@ const Contact = () => {
                                     <i class="ti-map-alt icon-md"></i>
                                 </div>
                                 &nbsp;
-                                <h6 class="d-inline mb-0">Address : <span class="text-muted">Tenkasi,Tamilnadu - 627811</span></h6>
+                                <h6 class="d-inline mb-0">Address : <span class="text-muted">Tamilnadu, India</span></h6>
                             </div>
                             <br />
                             <div class="row mb-2">
