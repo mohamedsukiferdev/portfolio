@@ -10996,8 +10996,8 @@ p {
 
 .icon-lg {
   font-size: 30px;
-  margin-top: 0.5re;
-}
+  margin-top: 0.5rem;
+} 
 
 .icon-xl {
   font-size: 65px;
@@ -11774,7 +11774,7 @@ pre .code {
 }
 
 .about-section .about-card {
-  padding: 60px;
+  padding: 60px 45px;
   border-right: 1px solid #dee2e6;
 }
 
@@ -11791,12 +11791,12 @@ pre .code {
   display: flex;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+   justify-content: center;
   -webkit-box-align: center;
   -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   padding: 80px 0;
 }
 
